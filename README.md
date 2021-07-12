@@ -17,3 +17,5 @@ create your bot
 after this was succesfull you should get your api key for telegram
 
 2. and than you can add your bot to your group
+
+3. start your script with main.py - and your bot is ready to go
